@@ -17,26 +17,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,mysql,postgres,git,linux,figma,tailwind,bootstrap,redux" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -71,13 +51,3 @@ Platform tutorial coding & marketplace source code
 </p>
 
 ---
-
-## ✨ Philosophy
-
-> *"Great software is built not just to work, but to deliver real value."*
-
----
-
-<p align="center">
-⭐ Star my repositories if you find them useful!
-</p>
